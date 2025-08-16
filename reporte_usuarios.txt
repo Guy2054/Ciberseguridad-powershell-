@@ -1,8 +1,0 @@
-Usuarios que no han iniciado sesión
-DefaultAccount: Estado = False, Último acceso = NUNCA
-Guest: Estado = False, Último acceso = NUNCA
-simon: Estado = True, Último acceso = NUNCA
-WDAGUtilityAccount: Estado = False, Último acceso = NUNCA
- 
-Usuarios que han iniciado sesión
-Administrator: Estado = False, Último acceso = 05/28/2023 08:08:43
