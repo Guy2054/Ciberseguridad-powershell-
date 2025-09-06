@@ -10,15 +10,12 @@ Este script permite verificar si una cuenta de correo electrónico ha sido compr
 - Conexión a internet
 
 ## Instalación
-
-```bash
-pip install -r requirements.txt 
+<pre>pip install -r requirements.txt</pre>
 ## Uso
 
 Ejecuta el script desde la terminal, indicando el correo a verificar y opcionalmente el nombre del archivo CSV de salida:
 
-bash
-python verificar_correo.py correo@example.com -o salida.csv```
+<pre>python verificar_correo.py correo@example.com -o salida.csv</pre>
 
 ## Archivos generados
 
@@ -29,19 +26,18 @@ python verificar_correo.py correo@example.com -o salida.csv```
 
 ## Estructura del proyecto
 
-```plaintext
-verificar_correo.py
+<pre>verificar_correo.py
 apikey.txt
 registro.log
 reporte.csv
 requirements.txt
-README.md```
+README.md</pre>
 
 ## Créditos
 
-Desarrollado por **[Tu Nombre]**
-Materia: *Programación para Ciberseguridad*
-Grupo: *[Tu Grupo]*
+Desarrollado por Simón
+Materia: Programación para Ciberseguridad
+Grupo: 062
 
 ## Licencia
 
